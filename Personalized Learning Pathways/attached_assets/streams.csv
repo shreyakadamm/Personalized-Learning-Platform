@@ -1,0 +1,56 @@
+stream_id,stream_name,description,category,difficulty_level
+1,Comuter Sciencce,Programming and Software development,Technology,Intermediate
+2,Data Science,Data Analysis and Machine Learning,Technology,Advanced
+3,Business Administration,Management and business strategy,Business,Intermediate
+4,Psychology,Human behavior and mental processes,Social Science,Intermediate
+5,Biology,Study of living organisms,Science,Intermediate
+6,Mathematics,Pure and applied mathematics,Science,Advanced
+7,Physics,Study of matter and energy,Science,Advanced
+8,Chemistry,Study of chemical substances,Science,Intermediate
+9,Economics,Study of economic systems,Social Science,Intermediate
+10,English Literature,Study of literary works,Humanities,Beginner
+11,History,Study of past event,Humanities,Beginner
+12,Engineering,Design and construction,Technology,Advanced
+13,Medicine,Healthcare and medical science,Science,Advanced
+14,Law,Legal studies and jurisprudence,Social Sciences,Advanced
+15,Creative Arts,Visual and performing arts,Arts,Beginner
+16,Marketing,Promotion and sales strategies,Business,Intermediate
+17,Finance,Money and investment management,Business,Advanced
+18,Sociology,Study of society and social behavior,Social Sciences,Intermediate
+19,Philosophy,Study of fundamental questions,Humanities,Intermediate
+20,Environmental Science,Study of environment and ecology,Science,Intermediate
+21,Architecture,Building design and construction,Technology,Advanced
+22,Nursing,Healthcare and patient care,Science,Intermediate
+23,Education,Teaching and learning processes,Social Sciences,Intermediate
+24,Journalism,News reporting and media,Humanities,Intermediate
+25,Graphic Design,Visual communication design,Arts,Intermediate
+26,Music,Musical composition and performance,Arts,Beginner
+27,Mechanical Engineering,Design of mechanical systems,Technology,Advanced
+28,Electrical Engineering,Study of electrical systems,Technology,Advanced
+29,Civil Engineering,Infrastructure and construction,Technology,Advanced
+30,Information Technology,IT systems and networks,Technology,Intermediate
+31,Cybersecurity,Information security and protection,Technology,Advanced
+32,Artificial Intelligence,Machine learning and AI systems,Technology,Advanced
+33,Web Development,Website and application development,Technology,Intermediate
+34,Mobile App Development,Smartphone application development,Technology,Intermediate
+35,Game Development,Video game creation and design,Technology,Intermediate
+36,Digital Marketing,Online marketing strategies,Business,Intermediate
+37,Project Management,Planning and executing projects,Business,Intermediate
+38,Human Resources,Personnel management,Business,Intermediate
+39,Supply Chain Management,Logistics and operations,Business,Advanced
+40,International Relations,Global politics and diplomacy,Social Sciences,Advanced
+41,Anthropology,Study of human cultures,Social Sciences,Intermediate
+42,Political Science,Government and political systems,Social Sciences,Intermediate
+43,Geography,Study of Earth's features,Science,Beginner
+44,Astronomy,Study of celestial objects,Science,Advanced
+45,Geology,Study of Earth's structure,Science,Intermediate
+46,Biotechnology,Biological technology applications,Science,Advanced
+47,Pharmacology,Study of drugs and medicines,Science,Advanced
+48,Veterinary Science,Animal health and medicine,Science,Advanced
+49,Sports Science,Exercise and athletic performance,Science,Intermediate
+50,Nutrition,Food science and dietary health,Science,Intermediate
+51,Interior Design,Space planning and decoration,Arts,Intermediate
+52,Fashion Design,Clothing and textile design,Arts,Intermediate
+53,Photography,Visual image creation,Arts,Beginner
+54,Film Studies,Cinema and video production,Arts,Intermediate
+55,General,General knowledge and aptitude,General,Beginner

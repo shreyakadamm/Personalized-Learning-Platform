@@ -1,0 +1,51 @@
+question_id,stream,question,option_a,option_b,option_c,option_d,correct_answer,difficulty,explanation
+1,Computer Science,Which programming language is known for its use in web development?,Python,JavaScript,C++,Java,b,Beginner,JavaScript is primarily used for web development
+2,Computer Science,What does CPU stand for?,Central Processing Unit,Computer Personal Unit,Central Program Unit,Computer Processing Unit,a,Beginner,CPU stands for Central Processing Unit
+3,Computer Science,Which data structure follows LIFO principle?,Queue,Stack,Array,Linked List,b,Intermediate,Stack follows Last In First Out (LIFO) principle
+4,Computer Science,What is the time complexity of binary search?,O(n),O(log n),O(n²),O(1),b,Intermediate,Binary search has O(log n) time complexity
+5,Computer Science,Which protocol is used for secure web browsing?,HTTP,FTP,HTTPS,SMTP,c,Intermediate,HTTPS is used for secure web browsing
+6,Data Science,What is the primary purpose of machine learning?,Data storage,Pattern recognition,Data visualization,Database management,b,Intermediate,Machine learning is used for pattern recognition
+7,Data Science,Which Python library is commonly used for data manipulation?,NumPy,Pandas,Matplotlib,Scikit-learn,b,Intermediate,Pandas is primarily used for data manipulation
+8,Data Science,What does SQL stand for?,Structured Query Language,Simple Query Language,Standard Query Language,System Query Language,a,Beginner,SQL stands for Structured Query Language
+9,Data Science,Which algorithm is used for classification?,Linear Regression,K-Means,Decision Tree,Principal Component Analysis,c,Intermediate,Decision Tree is used for classification
+10,Data Science,What is overfitting in machine learning?,Model performs well on training data but poorly on test data,Model performs poorly on all data,Model cannot be trained,Model is too simple,a,Advanced,Overfitting occurs when model memorizes training data
+11,Mathematics,What is the derivative of x²?,x,2x,2x²,x²,b,Intermediate,The derivative of x² is 2x
+12,Mathematics,What is the value of π (pi) approximately?,2.14,3.14,4.14,5.14,b,Beginner,π is approximately 3.14159
+13,Mathematics,What is the integral of 2x?,x²,2x²,x² + C,2x² + C,c,Intermediate,The integral of 2x is x² + C
+14,Mathematics,What is the solution to x² - 4 = 0?,x = 2,x = ±2,x = 4,x = ±4,b,Intermediate,x² - 4 = 0 gives x = ±2
+15,Mathematics,What is the formula for the area of a circle?,πr,2πr,πr²,2πr²,c,Beginner,Area of circle is πr²
+16,Physics,What is the unit of force?,Joule,Newton,Watt,Pascal,b,Beginner,Newton is the unit of force
+17,Physics,What is Einstein's famous equation?,E=mc,E=mc²,E=m²c,E=m²c²,b,Intermediate,Einstein's equation is E=mc²
+18,Physics,What is the acceleration due to gravity on Earth?,9.8 m/s,9.8 m/s²,8.9 m/s²,10 m/s²,b,Beginner,Gravity acceleration is 9.8 m/s²
+19,Physics,What is the first law of thermodynamics?,Energy cannot be created or destroyed,Entropy always increases,Heat flows from hot to cold,Force equals mass times acceleration,a,Intermediate,First law states energy conservation
+20,Physics,What particle has no electric charge?,Proton,Electron,Neutron,Ion,c,Beginner,Neutron has no electric charge
+21,Biology,What is the basic unit of life?,Atom,Molecule,Cell,Tissue,c,Beginner,Cell is the basic unit of life
+22,Biology,What process do plants use to make food?,Respiration,Photosynthesis,Digestion,Reproduction,b,Beginner,Plants use photosynthesis to make food
+23,Biology,How many chambers does a human heart have?,2,3,4,5,c,Beginner,Human heart has 4 chambers
+24,Biology,What is DNA?,Deoxyribonucleic Acid,Ribonucleic Acid,Protein,Enzyme,a,Intermediate,DNA is Deoxyribonucleic Acid
+25,Biology,Which organelle is known as the powerhouse of the cell?,Nucleus,Ribosome,Mitochondria,Chloroplast,c,Intermediate,Mitochondria is the powerhouse of cell
+26,Chemistry,What is the chemical symbol for water?,H2O,CO2,NaCl,CH4,a,Beginner,Water is H2O
+27,Chemistry,What is the atomic number of carbon?,4,6,8,12,b,Beginner,Carbon has atomic number 6
+28,Chemistry,What type of bond exists in NaCl?,Covalent,Ionic,Metallic,Hydrogen,b,Intermediate,NaCl has ionic bonds
+29,Chemistry,What is the pH of pure water?,6,7,8,9,b,Beginner,Pure water has pH 7
+30,Chemistry,What is Avogadro's number approximately?,6.02 × 10²²,6.02 × 10²³,6.02 × 10²⁴,6.02 × 10²⁵,b,Intermediate,Avogadro's number is 6.02 × 10²³
+31,Business Administration,What does ROI stand for?,Return on Investment,Rate of Interest,Revenue on Investment,Risk of Investment,a,Beginner,ROI is Return on Investment
+32,Business Administration,What is the first step in the management process?,Controlling,Organizing,Planning,Leading,c,Beginner,Planning is the first management step
+33,Business Administration,What is a SWOT analysis?,Strengths Weaknesses Opportunities Threats,Sales Work Operations Training,Strategic Work Operational Tactics,System Wide Organizational Training,a,Intermediate,SWOT: Strengths Weaknesses Opportunities Threats
+34,Business Administration,What is market segmentation?,Dividing market into groups,Combining all customers,Creating new products,Setting prices,a,Intermediate,Market segmentation divides market into groups
+35,Business Administration,What is the break-even point?,When revenue equals costs,When profit is maximized,When costs are minimized,When sales are highest,a,Intermediate,Break-even is when revenue equals costs
+36,Psychology,Who is considered the father of psychology?,Freud,Wundt,Skinner,Jung,b,Intermediate,Wilhelm Wundt is considered father of psychology
+37,Psychology,What is classical conditioning?,Learning through rewards,Learning through association,Learning through observation,Learning through punishment,b,Intermediate,Classical conditioning is learning through association
+38,Psychology,What are the stages of grief according to Kübler-Ross?,4,5,6,7,b,Intermediate,Kübler-Ross model has 5 stages
+39,Psychology,What is cognitive dissonance?,Mental discomfort from conflicting beliefs,Memory loss,Learning disability,Attention disorder,a,Advanced,Cognitive dissonance is discomfort from conflicting beliefs
+40,Psychology,What part of the brain controls emotions?,Cerebellum,Frontal lobe,Limbic system,Brain stem,c,Intermediate,Limbic system controls emotions
+41,General,What is the largest planet in our solar system?,Earth,Mars,Jupiter,Saturn,c,Beginner,Jupiter is the largest planet
+42,General,Who wrote Romeo and Juliet?,Charles Dickens,William Shakespeare,Jane Austen,Mark Twain,b,Beginner,Shakespeare wrote Romeo and Juliet
+43,General,What is the capital of France?,London,Berlin,Paris,Rome,c,Beginner,Paris is the capital of France
+44,General,In what year did World War II end?,1944,1945,1946,1947,b,Beginner,World War II ended in 1945
+45,General,What is the smallest unit of matter?,Molecule,Atom,Electron,Proton,b,Beginner,Atom is the smallest unit of matter
+46,General,Which ocean is the largest?,Atlantic,Pacific,Indian,Arctic,b,Beginner,Pacific is the largest ocean
+47,General,What gas do plants absorb from the atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,c,Beginner,Plants absorb carbon dioxide
+48,General,How many continents are there?,5,6,7,8,c,Beginner,There are 7 continents
+49,General,What is the hardest natural substance?,Gold,Diamond,Iron,Silver,b,Beginner,Diamond is the hardest natural substance
+50,General,What is the study of earthquakes called?,Geology,Seismology,Meteorology,Astronomy,b,Intermediate,Seismology is the study of earthquakes

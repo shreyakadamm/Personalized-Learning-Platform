@@ -1,0 +1,51 @@
+recommendation_id,stream,title,resource_type,platform,url,difficulty_level,duration,description
+1,Computer Science,Python Programming Fundamentals,Course,Coursera,https://coursera.org/python-basics,Beginner,6 weeks,Learn Python programming from scratch with hands-on exercises
+2,Computer Science,Data Structures and Algorithms,Course,edX,https://edx.org/data-structures,Intermediate,8 weeks,Master essential data structures and algorithms for programming interviews
+3,Computer Science,Web Development Bootcamp,Course,Udemy,https://udemy.com/web-dev,Intermediate,12 weeks,Complete web development course covering HTML CSS JavaScript and frameworks
+4,Computer Science,Software Engineering Principles,Book,N/A,N/A,Advanced,Self-paced,Comprehensive guide to software engineering best practices and methodologies
+5,Computer Science,JavaScript Mastery,Video Tutorial,YouTube,https://youtube.com/js-mastery,Intermediate,4 weeks,Advanced JavaScript concepts and modern development practices
+6,Data Science,Introduction to Machine Learning,Course,Coursera,https://coursera.org/ml-intro,Intermediate,8 weeks,Learn machine learning fundamentals with Python and scikit-learn
+7,Data Science,Python for Data Analysis,Book,N/A,N/A,Intermediate,Self-paced,Master pandas numpy and matplotlib for data manipulation and visualization
+8,Data Science,Deep Learning Specialization,Course,Coursera,https://coursera.org/deep-learning,Advanced,16 weeks,Comprehensive deep learning program covering neural networks and AI
+9,Data Science,SQL for Data Science,Course,edX,https://edx.org/sql-data,Beginner,4 weeks,Learn SQL for data querying and database management
+10,Data Science,Kaggle Learn Micro-Courses,Interactive,Kaggle,https://kaggle.com/learn,Beginner,2 weeks,Short practical courses on data science topics with hands-on exercises
+11,Mathematics,Linear Algebra Foundations,Course,MIT OpenCourseWare,https://ocw.mit.edu/linear-algebra,Intermediate,10 weeks,Comprehensive linear algebra course from MIT
+12,Mathematics,Calculus Complete Course,Video Tutorial,Khan Academy,https://khanacademy.org/calculus,Intermediate,12 weeks,Complete calculus curriculum with interactive exercises
+13,Mathematics,Statistics and Probability,Course,edX,https://edx.org/statistics,Beginner,6 weeks,Introduction to statistical concepts and probability theory
+14,Mathematics,Abstract Algebra,Book,N/A,N/A,Advanced,Self-paced,Advanced mathematical concepts in abstract algebra and group theory
+15,Mathematics,Mathematical Thinking,Course,Coursera,https://coursera.org/math-thinking,Intermediate,6 weeks,Develop mathematical reasoning and problem-solving skills
+16,Physics,Classical Mechanics,Course,MIT OpenCourseWare,https://ocw.mit.edu/classical-mechanics,Advanced,14 weeks,Advanced physics course on classical mechanics and dynamics
+17,Physics,Quantum Physics Fundamentals,Course,edX,https://edx.org/quantum-physics,Advanced,10 weeks,Introduction to quantum mechanics and atomic physics
+18,Physics,Physics Problem Solving,Book,N/A,N/A,Intermediate,Self-paced,Comprehensive physics problem-solving techniques and methods
+19,Physics,Electromagnetism Course,Video Tutorial,YouTube,https://youtube.com/electromagnetism,Intermediate,8 weeks,Complete course on electromagnetic theory and applications
+20,Physics,Thermodynamics and Statistical Mechanics,Course,Coursera,https://coursera.org/thermodynamics,Advanced,12 weeks,Advanced thermodynamics and statistical physics concepts
+21,Biology,Cell Biology Fundamentals,Course,edX,https://edx.org/cell-biology,Intermediate,8 weeks,Comprehensive study of cellular structure and function
+22,Biology,Genetics and Heredity,Video Tutorial,Khan Academy,https://khanacademy.org/genetics,Beginner,6 weeks,Introduction to genetics principles and inheritance patterns
+23,Biology,Molecular Biology Techniques,Course,Coursera,https://coursera.org/molecular-biology,Advanced,10 weeks,Advanced molecular biology methods and laboratory techniques
+24,Biology,Ecology and Environment,Book,N/A,N/A,Intermediate,Self-paced,Study of ecosystems environmental science and conservation
+25,Biology,Human Anatomy and Physiology,Course,Udemy,https://udemy.com/anatomy,Intermediate,12 weeks,Complete human body systems and physiological processes
+26,Chemistry,General Chemistry Principles,Course,MIT OpenCourseWare,https://ocw.mit.edu/chemistry,Beginner,12 weeks,Fundamental chemistry concepts and laboratory techniques
+27,Chemistry,Organic Chemistry Mastery,Course,edX,https://edx.org/organic-chemistry,Intermediate,14 weeks,Comprehensive organic chemistry reactions and mechanisms
+28,Chemistry,Physical Chemistry,Book,N/A,N/A,Advanced,Self-paced,Advanced chemical thermodynamics and quantum chemistry
+29,Chemistry,Analytical Chemistry Methods,Course,Coursera,https://coursera.org/analytical-chemistry,Intermediate,8 weeks,Modern analytical techniques and instrumentation
+30,Chemistry,Biochemistry Fundamentals,Video Tutorial,YouTube,https://youtube.com/biochemistry,Intermediate,10 weeks,Chemical processes in living organisms and metabolism
+31,Business Administration,MBA Fundamentals,Course,Coursera,https://coursera.org/mba-fundamentals,Intermediate,16 weeks,Core business concepts including strategy finance and marketing
+32,Business Administration,Leadership and Management,Course,edX,https://edx.org/leadership,Intermediate,8 weeks,Develop essential leadership and people management skills
+33,Business Administration,Financial Management,Book,N/A,N/A,Advanced,Self-paced,Corporate finance investment analysis and financial planning
+34,Business Administration,Marketing Strategy,Course,Udemy,https://udemy.com/marketing-strategy,Intermediate,6 weeks,Strategic marketing planning and customer analysis
+35,Business Administration,Operations Management,Video Tutorial,YouTube,https://youtube.com/operations-mgmt,Intermediate,8 weeks,Supply chain management and operational efficiency
+36,Psychology,Introduction to Psychology,Course,Coursera,https://coursera.org/intro-psychology,Beginner,8 weeks,Foundational concepts in psychological science and research methods
+37,Psychology,Cognitive Psychology,Course,edX,https://edx.org/cognitive-psychology,Intermediate,10 weeks,Mental processes including perception memory and decision making
+38,Psychology,Abnormal Psychology,Book,N/A,N/A,Intermediate,Self-paced,Study of psychological disorders and mental health conditions
+39,Psychology,Social Psychology,Video Tutorial,Khan Academy,https://khanacademy.org/social-psychology,Intermediate,6 weeks,How social situations influence thoughts feelings and behaviors
+40,Psychology,Research Methods in Psychology,Course,Udemy,https://udemy.com/psychology-research,Advanced,12 weeks,Statistical methods and experimental design in psychological research
+41,Engineering,Engineering Fundamentals,Course,MIT OpenCourseWare,https://ocw.mit.edu/engineering,Beginner,10 weeks,Core engineering principles and problem-solving methods
+42,Engineering,Mechanical Engineering Design,Course,edX,https://edx.org/mechanical-engineering,Intermediate,12 weeks,Machine design principles and CAD modeling
+43,Engineering,Electrical Circuits,Video Tutorial,YouTube,https://youtube.com/circuits,Intermediate,8 weeks,DC and AC circuit analysis and electronic components
+44,Engineering,Civil Engineering Structures,Book,N/A,N/A,Advanced,Self-paced,Structural analysis and design of buildings and infrastructure
+45,Engineering,Engineering Mathematics,Course,Coursera,https://coursera.org/engineering-math,Intermediate,14 weeks,Mathematical methods for engineering applications
+46,Economics,Microeconomics Principles,Course,MIT OpenCourseWare,https://ocw.mit.edu/microeconomics,Beginner,10 weeks,Individual economic behavior and market structures
+47,Economics,Macroeconomics Theory,Course,edX,https://edx.org/macroeconomics,Intermediate,12 weeks,National economic systems and policy analysis
+48,Economics,Econometrics and Statistics,Book,N/A,N/A,Advanced,Self-paced,Statistical methods for economic analysis and forecasting
+49,Economics,International Economics,Video Tutorial,YouTube,https://youtube.com/international-econ,Intermediate,8 weeks,Global trade finance and international economic policy
+50,Economics,Development Economics,Course,Coursera,https://coursera.org/development-economics,Advanced,14 weeks,Economic development in emerging markets and policy implications

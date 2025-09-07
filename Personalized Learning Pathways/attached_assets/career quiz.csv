@@ -1,0 +1,16 @@
+question_id,question,question_type,career_field,option_a,option_b,option_c,option_d
+1,How much do you enjoy working with computers and technology?,scale,Technology,Not at all,Slightly,Moderately,Very much
+2,Do you prefer working alone or in teams?,multiple_choice,Social Services,Alone,Small teams,Large teams,Both equally
+3,How interested are you in helping people solve their problems?,scale,Healthcare,Not interested,Slightly interested,Moderately interested,Very interested
+4,Do you enjoy analyzing data and finding patterns?,scale,Science,Not at all,Slightly,Moderately,Very much
+5,How comfortable are you with public speaking and presentations?,scale,Business,Very uncomfortable,Uncomfortable,Comfortable,Very comfortable
+6,Do you prefer creative tasks or structured analytical tasks?,multiple_choice,Creative Arts,Creative tasks,Analytical tasks,Both equally,Neither particularly
+7,How interested are you in understanding how things work mechanically?,scale,Engineering,Not interested,Slightly interested,Moderately interested,Very interested
+8,Do you enjoy reading and researching topics in depth?,scale,Education,Not at all,Slightly,Moderately,Very much
+9,How important is having a high salary to you?,multiple_choice,Business,Not important,Somewhat important,Important,Very important
+10,Do you prefer working in an office or outdoors?,multiple_choice,Science,Office only,Outdoors only,Both equally,Home/remote
+11,How interested are you in starting your own business?,scale,Business,Not interested,Slightly interested,Moderately interested,Very interested
+12,Do you enjoy writing and communicating ideas?,scale,Creative Arts,Not at all,Slightly,Moderately,Very much
+13,How comfortable are you with math and calculations?,scale,Technology,Very uncomfortable,Uncomfortable,Comfortable,Very comfortable
+14,Do you prefer helping individuals or working on large-scale projects?,multiple_choice,Healthcare,Individuals,Small groups,Large projects,Both equally
+15,How interested are you in environmental issues and sustainability?,scale,Science,Not interested,Slightly interested,Moderately interested,Very interested
